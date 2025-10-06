@@ -298,15 +298,6 @@ ros2 run multirobot_sim data_logger --ros-args \
 
 This project is provided as-is for educational and research purposes.
 
-## Contributing
-
-Feel free to submit issues and enhancement requests. When contributing:
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Submit a pull request
-
 ## Support
 
 For questions and support, please refer to the documentation or create an issue in the repository.
